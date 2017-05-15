@@ -15,8 +15,8 @@ name = "pangocairo_sys"
 libc = "0.2.22"
 
 [dependencies.cairo-sys-rs]
-git = "https://github.com/gtk-rs/cairo"
-version = "0.3.4"
+git = "https://github.com/charlesvdv/cairo"
+branch = "master"
 
 [dependencies.pango-sys]
 git = "https://github.com/gtk-rs/sys"
